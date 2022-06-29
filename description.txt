@@ -1,0 +1,15 @@
+
+This mod makes you leave the world and return to the same place you left, as if it were a checkpoint.
+
+Obs: if you delete the checkpoint.txt file, it will break your caracteres, but you only need to create a new one, and all will be ok again.
+
+Obs2: The player is identified by name, that is, if there are two players with the same name in the same world. they will have the same checkpoint, unfortunately.
+
+===================================================================
+
+Este mod faz com que você deixe o mundo e volte para o mesmo lugar de onde saiu, como se fosse um checkpoint.
+
+Obs: se você deletar o arquivo checkpoint.txt, seus personagens serão quebrados, mas você só precisa criar um novo, e tudo ficará bem novamente.
+
+Obs2: O jogador é identificado pelo nome, ou seja, se existem dois jogadores com o mesmo nome no mesmo mundo. eles terão o mesmo checkpoint, infelizmente. 
+

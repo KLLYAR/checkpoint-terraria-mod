@@ -1,0 +1,6 @@
+displayName = Checkpoint
+author = KLYAR
+version = 0.0.0.2
+hideCode = true
+hideResources = true
+buildIgnore = true
